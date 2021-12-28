@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @KLARKOFF
-- 👀 I’m interested in making games
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in making desktop programs
+- 🌱 I’m currently learning C#
